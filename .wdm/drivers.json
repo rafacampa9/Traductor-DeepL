@@ -2,5 +2,9 @@
     "linux64_chromedriver_115.0.5790.170_for_115.0.5790.170": {
         "timestamp": "25/08/2023",
         "binary_path": "/home/zaraki/Escritorio/Traductor deepl/Code/.wdm/drivers/chromedriver/linux64/115.0.5790.170/chromedriver-linux64/chromedriver"
+    },
+    "win64_chromedriver_116.0.5845.111_for_116.0.5845.111": {
+        "timestamp": "26/08/2023",
+        "binary_path": "d:\\Escritorio\\UBUNTU\\Traductor deepl\\Code\\.wdm\\drivers\\chromedriver\\win64\\116.0.5845.111\\chromedriver-win32/chromedriver.exe"
     }
 }

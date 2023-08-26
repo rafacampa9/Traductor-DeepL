@@ -10,11 +10,10 @@ from selenium.common.exceptions import TimeoutException
 #para definir que tipo de búsqueda voy a definir para el elemento
 from selenium.webdriver.common.by import By
 
-from selenium.webdriver.common.keys import Keys
+
 
 import time as t
 
-import pyautogui as p
 
 from iniciar_chrome.chromedriver import iniciar_chrome
 

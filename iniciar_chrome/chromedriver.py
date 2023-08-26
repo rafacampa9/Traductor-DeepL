@@ -11,7 +11,7 @@ import os
 os.environ['WDM_LOCAL'] = '1'
 from webdriver_manager.chrome import ChromeDriverManager
 
-from Constantes.constantes import USER_AGENT, PATH
+from Constantes.constantes import USER_AGENT
 
 
 

@@ -9,8 +9,8 @@ class Manager(tk.Tk):
         super().__init__(*args, **kwargs)
         self.title('Traductor DeepL')
         
-        self.maxsize(480,240)
-        self.minsize(480,240)   
+        self.maxsize(560,280)
+        self.minsize(560,280)   
         container = tk.Frame(self)
         container.pack(
             side = tk.TOP,
